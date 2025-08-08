@@ -39,7 +39,7 @@ The analysis shows that traders are most active during periods of market fear.
 * **Total Trading Volume**: The highest total trading volume occurred during **Fear** periods, amounting to over $597 million. This is significantly greater than the volume during **Greed** ($413 million) and **Neutral** ($180 million) periods.
 * **Average Trade Size**: The average trade size was also largest during periods of **Fear** ($7,182). This indicates that traders not only trade more frequently but also execute larger trades when the market is fearful.
 
-![Total Trading Volume and Average Trade Size by Sentiment]([/output/volume_vs_sentiment.png](https://github.com/ayush6645/ds_gyangupta/blob/main/outputs/volume_vs_sentiment.png))
+![Total Trading Volume and Average Trade Size by Sentiment](outputs/volume_vs_sentiment.png)
 *Source: Generated from `notebook_1.ipynb`*
 
 ### Profitability (PnL) vs. Sentiment
