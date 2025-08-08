@@ -52,7 +52,7 @@ While volume peaks in fear, profitability patterns show more complexity.
 
 | PnL Distribution (All Assets) | PnL Distribution (BTC) | Average Monthly PnL |
 | :---: | :---: | :---: |
-| ![Distribution of Profit & Loss (PnL) by Sentiment](pnl_vs_sentiment.png) | ![Distribution of PnL for BTC by Sentiment](pnl_vs_sentiment_BTC.png) | ![Average Monthly Profit & Loss (PnL) Over Time](pnl_over_time.png) |
+| ![Distribution of Profit & Loss (PnL) by Sentiment](outputs/pnl_vs_sentiment.png) | ![Distribution of PnL for BTC by Sentiment](outputs/pnl_vs_sentiment_BTC.png) | ![Average Monthly Profit & Loss (PnL) Over Time](outputs/pnl_over_time.png) |
 
 ### Trader Behavior: Buy vs. Sell Ratio
 
@@ -62,7 +62,7 @@ There is a discernible shift in aggregate trader behavior corresponding with mar
 * In **Fear** periods, the buy/sell ratio is nearly balanced, with a slight tendency towards **SELL** trades (50.5%).
 * **Neutral** periods show a minor inclination towards **BUY** trades (50.3%).
 
-![Proportion of Buy vs. Sell Trades by Sentiment](behavior_proportions.png)
+![Proportion of Buy vs. Sell Trades by Sentiment](outputs/behavior_proportions.png)
 *Source: Generated from `notebook_1.ipynb`*
 
 ---
